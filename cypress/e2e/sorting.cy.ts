@@ -20,3 +20,4 @@ describe('Sort by price high and low  Test', () => {
       
   });
 });
+export{};

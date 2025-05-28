@@ -27,3 +27,4 @@ describe('Homepage UI Test', () => {
       .and('contain', 'Roasted coffee beans 5kg');
   });
 });
+export{};

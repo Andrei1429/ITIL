@@ -48,3 +48,4 @@ describe('Product Detail Page Test', () => {
 
   });
 });
+export{};
